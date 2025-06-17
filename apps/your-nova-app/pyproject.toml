@@ -3,7 +3,6 @@ name = "your_nova_app"
 version = "0.0.1"
 description = ""
 requires-python = "~=3.12"
-readme = "README.md"
 dependencies = [
     "fastapi>=0.115.12",
     "loguru>=0.7.3",

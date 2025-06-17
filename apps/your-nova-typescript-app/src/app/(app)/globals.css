@@ -1,0 +1,11 @@
+html,
+body {
+  font-family: "Dongle", sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+img {
+  user-select: none;
+}
